@@ -2781,11 +2781,10 @@ input, select, textarea {
 		}
 
 		table th {
-			color: #ffffff;
+			color: #968256;
 			font-size: 0.9em;
-			font-weight: 300;
+			font-weight: 600;
 			padding: 0 0.75em 0.75em 0.75em;
-			text-align: left;
 		}
 
 		table thead {
@@ -2794,6 +2793,9 @@ input, select, textarea {
 
 		table tfoot {
 			border-top: solid 1px rgba(255, 255, 255, 0.3);
+			text-align: left;
+			font-weight: 600;
+			color: #968256;
 		}
 
 		table.alt {
@@ -3556,7 +3558,7 @@ input, select, textarea {
 				font-style: normal;
 				font-variant: normal;
 				text-rendering: auto;
-				line-height: 1;
+				line-: 1;
 				text-transform: none !important;
 				font-family: 'Font Awesome 5 Free';
 				font-weight: 400;
